@@ -2,6 +2,10 @@ from turtle import *
 
 shape('turtle')
 
-forward(150)
-right(45)
-forward(100)
+forward(75)
+right(90)
+forward(75)
+right(90)
+forward(75)
+right(90)
+forward(75)
